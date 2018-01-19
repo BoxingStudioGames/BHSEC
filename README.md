@@ -4,3 +4,5 @@ Bard Talent Show the app allows BHSEC-Newark students to vote electronically for
 Link to mobile css app 
 
 http://bardtalent.atwebpages.com/home.html
+
+https://play.google.com/store/apps/details?id=com.gmail.boxingstudiogames.bhsecnewark
